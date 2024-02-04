@@ -3,7 +3,7 @@ This branch is use to develop home page and its feature of the web application.
 ### Main features
 - **Tab bar navigation**: This feature use to navigate user to each page of the web application.
 - **Coffee field Map**: Provide location of the coffee field with google map integration on the web application.
-- **Recommend blog**: Show top 3 blogs that have the most views
+- **Recommend blog**: Show top 3 blogs that have the most views.
 
 This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
 ## Members
