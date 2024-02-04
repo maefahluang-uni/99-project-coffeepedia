@@ -1,13 +1,14 @@
 # Project - Database system's classification of roasted coffee beans
-- This is a web application project developed to provide
-accessible information on roasted coffee beans, offering
-a valuable resource for the general public.
-- The features of the web application are divided into pages and the responsible of those page will be highlight in members list.
-- This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
+This branch is use to develop landing page feature of the web application.
+
+### Main features
+- **Landing page**: Being the first page when user visit the web application.
+
+This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
 ## Members
 1. 6431503070 Achiraya Pianyam - Frontend
 2. 6431503086 Nutthakan Thopkaew - Frontend, Backend
-3. 6431503102 Vorapong Kongma - Frontend, Backend
+3. [6431503102 Vorapong Kongma - Frontend, Backend](https://github.com/BallZzi)
 4. 6431503107 Suchanadee Seenapan - Frontend
 
 ## Instruction
