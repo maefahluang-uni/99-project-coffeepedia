@@ -6,7 +6,7 @@ a valuable resource for the general public.
 ## Members
 1. 6431503070 Achiraya Pianyam - Frontend
 2. 6431503086 Nutthakan Thopkaew - Frontend, Backend
-3. 6431503102 Vorapong Kongma - Backend
+3. 6431503102 Vorapong Kongma - Frontend, Backend
 4. 6431503107 Suchanadee Seenapan - Frontend
 
 ## Instruction
