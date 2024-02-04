@@ -4,10 +4,10 @@ accessible information on roasted coffee beans, offering
 a valuable resource for the general public.
 <br />This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
 ## Members
-1. 6431503070 Achiraya Pianyam
-2. 6431503086 Nutthakan Thopkaew
-3. 6431503102 Vorapong Kongma
-4. 6431503107 Suchanadee Seenapan
+1. 6431503070 Achiraya Pianyam - Frontend
+2. 6431503086 Nutthakan Thopkaew - Frontend, Backend
+3. 6431503102 Vorapong Kongma - Backend
+4. 6431503107 Suchanadee Seenapan - Frontend
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
