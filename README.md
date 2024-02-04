@@ -1,5 +1,5 @@
 # Project - Database system's classification of roasted coffee beans
-This branch is use to develop home page and its feature of the web application. 
+This branch is use to develop home page, "home" page compoment, and its feature of the web application. 
 ### Main features
 - **Tab bar navigation**: This feature use to navigate user to each page of the web application.
 - **Coffee field Map**: Provide location of the coffee field with google map integration on the web application.
