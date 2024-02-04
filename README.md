@@ -14,10 +14,10 @@ This github repository only provide skeleton of our project, you can watching pr
 
 ## Members
 
-1. 6431503070 Achiraya Pianyam
-2. 6431503086 Nutthakan Thopkaew
-3. 6431503102 Vorapong Kongma
-4. 6431503107 Suchanadee Seenapan
+1. [6431503070 Achiraya Pianyam - Frontend](https://github.com/Achiraya20)
+2. [6431503086 Nutthakan Thopkaew - Frontend, Backend](https://github.com/nutthakanT)
+3. 6431503102 Vorapong Kongma - Frontend, Backend
+4. [6431503107 Suchanadee Seenapan - Frontend](https://github.com/jiji456)
 
 ## Instruction
 
