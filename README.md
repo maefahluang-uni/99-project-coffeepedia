@@ -2,7 +2,7 @@
 
 This branch is use to develop contact page component for home page.
 
-### Main features
+### Main feature
 
 - **Contact card**: show contact information of the web application.
 
