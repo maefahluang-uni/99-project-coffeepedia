@@ -8,7 +8,7 @@ This branch is use to develop home page and its feature of the web application.
 This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
 ## Members
 1. 6431503070 Achiraya Pianyam - Frontend
-2. [6431503086 Nutthakan Thopkaew - Frontend, Backend]
+2. [6431503086 Nutthakan Thopkaew - Frontend, Backend](https://github.com/nutthakanT)
 3. 6431503102 Vorapong Kongma - Frontend, Backend
 4. 6431503107 Suchanadee Seenapan - Frontend
 
