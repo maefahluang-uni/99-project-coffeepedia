@@ -1,6 +1,6 @@
 # Project - Database system's classification of roasted coffee beans
 
-This branch is use to develop home page for admin and type of roasted coffee beans management only for adding and editing.
+This branch is use to develop type management page for admin and type of roasted coffee beans management only for adding and editing.
 
 ### Main feature
 
