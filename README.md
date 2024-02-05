@@ -1,6 +1,6 @@
 # Project - Database system's classification of roasted coffee beans
 
-This branch is use to develop blog and news management page for admin and its feature only for adding, editing, and deleting.
+This branch is use to develop blog and news management page for admin and its feature only to adding, editing, and deleting.
 
 ### Main feature
 
