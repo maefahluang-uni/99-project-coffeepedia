@@ -1,6 +1,6 @@
 # Project - Database system's classification of roasted coffee beans
 
-This branch is use to develop contact management page for admin and its feature only for editing.
+This branch is use to develop contact management page for admin and its feature only to editing.
 
 ### Main feature
 
