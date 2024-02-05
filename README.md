@@ -1,10 +1,10 @@
 # Project - Database system's classification of roasted coffee beans
 
-This branch is use to develop type management page for admin and type of roasted coffee beans management only for adding and editing.
+This branch is use to develop type management page for admin and its feature only for adding and editing.
 
 ### Main feature
 
-- **Type coffee beans management**: to manage type of roasted coffee beans
+- **Type coffee beans management**: to add and edit type of roasted coffee beans.
 
 This github repository only provide skeleton of our project, you can watching progress of our project from here: https://github.com/maefahluang-uni/project-coffeepedia
 
